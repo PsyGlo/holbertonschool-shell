@@ -7,3 +7,4 @@ Wrote a script that prints the effective username of the current user.
 Wrote a script that prints all the groups the current user is part of.
 Wrote a script that changes the owner of the file hello to the user betty.
 wrote a script that makes an empty file named hello
+wrote a script that adds execute permission to the owner of the file hello
