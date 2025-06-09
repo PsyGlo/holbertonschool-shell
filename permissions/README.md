@@ -6,3 +6,4 @@ It includes basic shell scripts and exercises as part of my introduction to prog
 Wrote a script that prints the effective username of the current user.
 Wrote a script that prints all the groups the current user is part of.
 Wrote a script that changes the owner of the file hello to the user betty.
+wrote a script that makes an empty file named hello
