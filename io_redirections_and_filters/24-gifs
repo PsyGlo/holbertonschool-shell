@@ -1,0 +1,3 @@
+#!/bin/bash
+#!/bin/bash
+find . -type f -name '*.gif' -o -name '*.GIF' -printf '%P\n' | while read -r f; do echo "${f%.*}"; done | LC_ALL=C sort -f
