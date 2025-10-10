@@ -33,7 +33,7 @@ Ce dépôt contient des exercices et petits projets axés sur les fondamentaux d
 
 ## Notes / Remarques 
 
-As this repository corresponds to my early exploration phase during Holberton pre-inscription, the content is basic and evolving. 
+As this repository corresponds to my early exploration phase during Holberton pre-inscription, the content is basic and evolving.  
 Étant donné que ce dépôt correspond à ma phase d’exploration précoce durant la pré-inscription Holberton, les contenus sont basiques et en évolution. 
 
 --- 
