@@ -2,16 +2,16 @@
 
 **This directory contains exercises and scripts focused on mastering input/output (I/O) redirections and the use of filters in the Unix shell environment. These concepts are essential for controlling data flow between commands and files, enabling powerful text processing and automation in shell scripting.**  
 
-*Ce répertoire contient des exercices et scripts axés sur la maîtrise des redirections d’entrée/sortie (E/S) et l’utilisation des filtres dans l’environnement shell Unix.*  
+*Ce répertoire contient des exercices et scripts axés sur la maîtrise des redirections d’entrée/sortie (E/S) et l’utilisation des filtres dans l’environnement shell Unix. Ces concepts sont essentiels pour contrôler le flux de données entre les commandes et les fichiers, permettant un traitement de texte puissant et une automatisation efficace dans les scripts shell.*
 
 **Through these exercises, I learnt how to redirect input and output streams, chain commands with pipes, and use common Unix filter commands such as grep, sed, awk, sort, and uniq. This helps me to write efficient shell scripts and perform advanced command line tasks.**
 
-*Ces concepts sont essentiels pour contrôler le flux de données entre les commandes et les fichiers, permettant un traitement de texte puissant et une automatisation efficace dans les scripts shell.*
+*À travers ces exercices, j’ai appris à rediriger les flux d’entrée et de sortie, à chaîner des commandes avec des tubes (pipes) et à utiliser les commandes filtres Unix courantes telles que grep, sed, awk, sort et uniq. Cela m’aide à écrire des scripts shell efficaces et à exécuter des tâches avancées en ligne de commande.*  
 
-Scripts
-Each script explores specific filter utilities or I/O redirection techniques / Chaque script explore des utilitaires de filtrage spécifiques ou des techniques de redirection d’E/S.﻿
+**Each script explores specific filter utilities or I/O redirection techniques / Chaque script explore des utilitaires de filtrage spécifiques ou des techniques de redirection d’E/S.﻿**  
 
-All scripts are tested on Ubuntu LTS and follow strict formatting rules / Tous les scripts sont testés sur Ubuntu LTS et suivent des règles de formatage strictes.﻿
+**All scripts are tested on Ubuntu LTS and follow strict formatting rules / Tous les scripts sont testés sur Ubuntu LTS et suivent des règles de formatage strictes.﻿**  
+
 
 ## Scripts
 
