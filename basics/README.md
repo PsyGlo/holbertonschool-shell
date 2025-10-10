@@ -1,11 +1,11 @@
-# Shell Scripts for Basics Project
+# Shell Scripts for Basics Project / Scripts Shell pour le Projet de Base
 
-This directory contains simple shell scripts as part of the Holberton School curriculum.
+This directory contains simple shell scripts as part of the Holberton School curriculum. / Ce répertoire contient des scripts shell simples dans le cadre du cursus Holberton School.
 
-## Scripts
+## Scripts / Scripts
 
-- **0-current_working_directory**
-  - **Description:** Prints the absolute path of the current working directory.
+**0-current_working_directory**  
+**Description:** Prints the absolute path of the current working directory / Description : Affiche le chemin absolu du répertoire de travail actuel.
 
 **1-listit**
 Description: Lists files and directories in the current directory.
